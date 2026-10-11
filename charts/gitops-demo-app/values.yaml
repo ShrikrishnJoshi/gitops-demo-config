@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: shrikrishnaj/gitops-demo-app
-  tag: "build-4"
+  tag: "build-5"
   pullPolicy: IfNotPresent
 
 containerPort: 3000
